@@ -18,3 +18,4 @@ git remote add origin https://github.com/hpatel3747/Test-Branching.git
 git branch -M main
 git push -u origin main
 ```
+merge this file with main branch
