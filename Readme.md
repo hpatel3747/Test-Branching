@@ -1,5 +1,5 @@
 ## Test Branching
-this is in 'mybranch'
+now this is in 'mybranch'
 
 Note:
 to create a new repository on the commandline
